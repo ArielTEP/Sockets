@@ -1,6 +1,7 @@
 # Sockets
 TCP/IP Communication and File Transfer Server 
-This program is was written like a FTP server, it could be better. It is good for students who want to learn how to write sockets 
+
+This program was written like a FTP server, it could be better. It is good for students who want to learn how to write sockets 
 on c language and a get a full understanding in it.
 
 Open the terminal: gcc - 'nameFile.c' -o 'output' -lpthread -lm
